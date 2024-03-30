@@ -1,4 +1,4 @@
-# 🏓 Bem-vindo ao Repositório do Clube de Tênis de Mesa 🏓
+# 🏓 Bem-vindo ao Repositório do Clube de Tênis de Mesa 
 
 Este é o repositório oficial do projeto de site institucional para o Clube de Tênis de Mesa. 🎉
 
