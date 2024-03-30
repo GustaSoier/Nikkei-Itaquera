@@ -1448,4 +1448,12 @@ h1, h2, h3, h4, h5,
 .block-counter-1 .caption{
   color: #000;
 }
+
+.block-team-member-1{
+  height: 465px;
+}
+
+.block-social-1 > a{
+  background-color: #00970f;
+}
 /* #endregion mudanças */
