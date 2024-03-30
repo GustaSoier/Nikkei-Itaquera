@@ -1402,4 +1402,22 @@ h1, h2, h3, h4, h5,
   width: 150px;
   height: 99px;
 }
+
+.top-bar {
+  background-color: #249930;
+}
+
+.top-bar a{
+  color: white;
+}
+
+.site-navbar .site-navigation .site-menu .active {
+  color: #00970f !important; 
+  font-weight: 700;
+}
+
+.site-navbar .site-navigation .site-menu > li > a {
+    color: #49b22a !important;
+
+}
 /* #endregion mudanças */
