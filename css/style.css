@@ -1395,7 +1395,7 @@ h1, h2, h3, h4, h5,
 .bg-light {
   background-color: #f6f5f5 !important; }
 
-  /* #endregion global */
+/* #endregion global */
 
 /* #region mudanças */
 .site-logo img{
@@ -1428,5 +1428,24 @@ h1, h2, h3, h4, h5,
   color: #000;
 }
 
+.ftco-blocks-cover-1 .ftco-service-image-1 a {
+  color: #249930;
+  font-weight: 600;
+}
 
+.block-heading-1 h2{
+  color: #00970f;
+}
+
+.ul-check.primary li::before {
+  color: rgb(20, 173, 0);
+}
+
+.block-counter-1 .number{
+  color: #00970f;
+}
+
+.block-counter-1 .caption{
+  color: #000;
+}
 /* #endregion mudanças */
