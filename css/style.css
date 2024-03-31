@@ -1462,4 +1462,55 @@ h1, h2, h3, h4, h5,
 .block-social-1 > a{
   background-color: #00970f;
 }
+
+.pricing{
+  height: 540px;
+}
+
+.pricing .price > span > span{
+  color: rgb(20, 173, 0);
+  font-weight: 500;
+}
+
+.btn-primary{
+  background-color: #00970f;
+  border-color: rgb(0, 255, 0);
+}
+
+.btn-primary:hover{
+  background-color: #00bc13;
+}
+
+.btn-secondary{
+  background-color: #106100;
+  border-color: rgb(0, 255, 0);
+}
+
+.btn-secondary:hover{
+  background-color: #00970f;
+  border-color: rgb(0, 255, 0);
+}
+
+.site-mobile-menu .site-nav-wrap > li > a{
+  color: #49b22a !important;
+}
+
+.site-mobile-menu .site-nav-wrap li .nav-link.active{
+  color: #00970f !important; 
+  font-weight: 700;
+}
+
+.sticky-wrapper.is-sticky .site-navbar ul li a{
+  color: #49b22a !important;
+}
+
+.sticky-wrapper.is-sticky .site-navbar ul li a.active{
+  color: #00970f !important; 
+  font-weight: 700;
+}
+
+/* .sticky-wrapper.is-sticky .site-navbar img{
+  width: 110px;
+  height: 67px;
+} */
 /* #endregion mudanças */
