@@ -1424,6 +1424,12 @@ h1, h2, h3, h4, h5,
   height: 250px;
 }
 
+.ftco-cover-1.overlay h1{
+  color: #00970f;
+  border-bottom: solid 3px;
+  font-weight: 700;
+}
+
 .ftco-service-image-1 .service p {
   color: #000;
 }
