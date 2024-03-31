@@ -1403,6 +1403,11 @@ h1, h2, h3, h4, h5,
   height: 99px;
 }
 
+.sticky-wrapper.is-sticky .site-navbar img{
+  width: 110px;
+  height: 67px;
+}
+
 .top-bar {
   background-color: #249930;
 }
@@ -1507,10 +1512,5 @@ h1, h2, h3, h4, h5,
 .sticky-wrapper.is-sticky .site-navbar ul li a.active{
   color: #00970f !important; 
   font-weight: 700;
-}
-
-.sticky-wrapper.is-sticky .site-navbar img{
-  width: 110px;
-  height: 67px;
 }
 /* #endregion mudanças */
