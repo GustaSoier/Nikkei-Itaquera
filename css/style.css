@@ -1535,4 +1535,12 @@ textarea.form-control{
 html {
   scroll-behavior: smooth;
 } 
+
+
+@media (max-width: 991.98px) {
+  .site-footer iframe {
+    width: 250px;
+}
+}
+
 /* #endregion mudanças */
