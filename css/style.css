@@ -1513,4 +1513,13 @@ h1, h2, h3, h4, h5,
   color: #00970f !important; 
   font-weight: 700;
 }
+
+.block-testimony-1 blockquote{
+  height: 350px;
+}
+
+.block-testimony-1 p{ 
+    font-weight: 400;
+    color: grey;
+}
 /* #endregion mudanças */
