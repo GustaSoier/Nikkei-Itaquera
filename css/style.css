@@ -1553,4 +1553,10 @@ html {
 }
 }
 
+@media (max-width: 1160px) {
+  .site-footer iframe {
+    width: 300px;
+}
+}
+
 /* #endregion mudanças */
