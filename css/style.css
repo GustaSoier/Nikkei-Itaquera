@@ -1543,6 +1543,11 @@ html {
     padding-bottom: 0;
   }
 
+  .sticky-wrapper .shrink {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+
   .site-footer iframe {
     width: 250px;
 }
