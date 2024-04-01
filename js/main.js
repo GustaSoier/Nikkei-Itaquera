@@ -317,3 +317,19 @@ jQuery(document).ready(function($) {
 
 
 });
+
+// Detecta cliques em links com a classe "smoothscroll"
+document.querySelectorAll('.smoothscroll').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        // Impede o comportamento padrão do link
+        e.preventDefault();
+
+        // Obtém o alvo da rolagem do atributo href do link
+        const targetId = this.getAttribute('href');
+
+        // Rola suavemente para o alvo
+        document.querySelector(targetId).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});

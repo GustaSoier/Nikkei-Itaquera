@@ -1527,4 +1527,12 @@ h1, h2, h3, h4, h5,
 textarea.form-control{
   resize: none;
 }
+
+.site-footer{
+  padding: 6em 0 2em 0;
+}
+
+html {
+  scroll-behavior: smooth;
+} 
 /* #endregion mudanças */
