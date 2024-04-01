@@ -1538,6 +1538,11 @@ html {
 
 
 @media (max-width: 991.98px) {
+  .site-navbar{
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
   .site-footer iframe {
     width: 250px;
 }
