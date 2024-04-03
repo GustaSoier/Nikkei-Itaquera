@@ -1536,8 +1536,15 @@ html {
   scroll-behavior: smooth;
 } 
 
+::-webkit-scrollbar{
+  width: 10px;
+  background-color: #fff;
+}
 
-
+::-webkit-scrollbar-thumb{
+  width: 10px;
+  background-color: #249930;
+}
 
 @media (max-width: 991.98px) {
   .site-navbar{
